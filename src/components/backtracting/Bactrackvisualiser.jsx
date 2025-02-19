@@ -31,7 +31,7 @@ function Bactrackvisualiser() {
       <div className="h-[80%] w-[90%] sm:w-[80%] md:w-[70%] flex flex-wrap items-center mx-auto mt-5 border rounded-xl border-green-200">
         <div className="h-full w-full sm:w-[30%] md:w-[20%] flex justify-center flex-col gap-5 items-center">
             <button  className="cursor-pointer font-semibold bg-gradient-to-r from-red-400 to-white h-14 w-38 rounded-2xl m-1 ml-2">
-              RESET HERE and make change here
+              RESET HERE 
             </button>
         </div>
 
