@@ -1,5 +1,6 @@
  
-import SortingVisualizer from './components/sorting/SortingVisualizer'
+import Home from './components/Home'
+import Home from './components/Home'
 
 function App() {
    
@@ -7,7 +8,7 @@ function App() {
   return (
      
        <div>
-        <SortingVisualizer/>
+        <Home/>
        </div>
      
   )
