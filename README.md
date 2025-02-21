@@ -1,8 +1,25 @@
-# React + Vite
+# DSA Visualizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based Data Structures and Algorithms (DSA) Visualizer that demonstrates sorting algorithms with interactive controls and real-time animations. Built to help learners and enthusiasts understand how sorting algorithms work through visual representation.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Supported Algorithms**:
+  - Bubble Sort
+  - Selection Sort
+  - Quick Sort
+  - Insertion Sort
+- **Interactive Controls**:
+  - Adjustable array size (5 to 50 elements) via a slider.
+  - Customizable animation speed (10ms to 500ms) for step-by-step visualization.
+  - Reset button to generate a new random array.
+  - Previous array button to revert to the last unsorted state.
+- **Visual Feedback**:
+  - Dynamic bar heights representing array values.
+  - Real-time updates during sorting with smooth transitions.
+  - Displays time taken and step count for each algorithm.
+- **Educational Insights**:
+  - Brief descriptions of each algorithm, including time complexity, displayed during execution.
+- **Stylish UI**:
+  - Dark theme with a zinc-800 background.
+  - Green gradient buttons and text for a sleek, modern look.

@@ -1,15 +1,12 @@
-
-import Home from './components/Home'
+import SortingVisualizer from './components/sorting/SortingVisualizer'
 
 function App() {
-   
 
   return (
      
        <div>
-        <Home/>
+        <SortingVisualizer/>
        </div>
-     
   )
 }
 
