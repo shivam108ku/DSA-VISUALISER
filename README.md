@@ -23,3 +23,5 @@ A React-based Data Structures and Algorithms (DSA) Visualizer that demonstrates 
 - **Stylish UI**:
   - Dark theme with a zinc-800 background.
   - Green gradient buttons and text for a sleek, modern look.
+
+  
