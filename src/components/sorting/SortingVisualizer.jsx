@@ -13,10 +13,12 @@ function SortingVisualizer() {
   const [description, setDescription] = useState(""); // Description of the current algorithm
   const [raceMode, setRaceMode] = useState(false); // Toggle between normal and race mode
   const [raceArrays, setRaceArrays] = useState({ // Race mode for each algorithm
+    
     bubble: [],
     selection: [],
     quick: [],
     insertion: [],
+    
   });
   const [raceTimes, setRaceTimes] = useState({ // Time taken by each algorithm in race mode
     bubble: 0,
